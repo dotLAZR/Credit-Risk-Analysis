@@ -8,7 +8,7 @@ Using the credit card credit dataset, you’ll oversample the data using the Ran
 ![ROS](./Images/ROS.png)
 * For our RandomOverSampling method we show a precision score of 0.06,
 ![Smote](./Images/SMOTE.png)
-* In our SMOTE method we showed a precision score of 0.07,
+* In our SMOTE method we showed a precision score of 0.07.
 ![Undersampling](./Images/Undersampling.png)
 * Using the UnderSampling method we also got a 0.06 F1 score.
 ![SMOTEENN](./Images/combo.png)
